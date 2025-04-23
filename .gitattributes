@@ -1,1 +1,4 @@
 Webby.zip filter=lfs diff=lfs merge=lfs -text
+Weeby filter=lfs diff=lfs merge=lfs -text
+Webby filter=lfs diff=lfs merge=lfs -text
+Webby.data filter=lfs diff=lfs merge=lfs -text
